@@ -1,0 +1,12 @@
+
+    Suggestions for What You Can Build:
+
+    - Create a new song with lyrics in the style of your favorite artist(s).
+    - Write a chatbot or tweetbot to get a conversation started.
+    - Generate new music using a simple music notation format such as GUIDO
+    - Add grammatical rules to the Markov Chain generator.
+    - Create a chess move computer using a chess game database.
+
+
+Markov Chain module
+https://github.com/Codecademy/markov_python
